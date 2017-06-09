@@ -1,0 +1,9 @@
+git init
+
+git pull https://github.com/rahulguptaiswinner/Demo.git
+
+git add demo.txt
+
+git commit -m "demo added"
+
+git push https://github.com/rahulguptaiswinner/Demo.git master
